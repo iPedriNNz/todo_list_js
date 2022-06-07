@@ -40,5 +40,5 @@ input[type="text"] {
 
 :checked + label {
     text-decoration: line-through;
-    color: grey;
+    color: rgb(184, 160, 160);
 }
